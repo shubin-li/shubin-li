@@ -2,7 +2,7 @@
 
 **MSc Data Analytics @ Dublin City University | Data Analyst | 7 Years in Enterprise Insurance Systems**
 
-I'm a data-driven professional transitioning from enterprise software engineering to data analytics. With 7 years of experience building and supporting a Fortune 500 insurance company's core business system (Java/Oracle, 70,000+ users), I developed strong skills in SQL-driven analysis, data reconciliation, and production troubleshooting. Now pursuing my MSc in Computing (Data Analytics) at DCU, I'm building expertise in predictive modelling, ETL pipelines, and deep learning.
+Data-driven professional with 7 years of experience building enterprise systems for a Fortune 500 insurance company, progressing from core systems development (Java/Oracle) to production incident analysis and data-driven troubleshooting using complex SQL queries across large-scale Oracle databases serving 70,000+ users. Currently completing MSc in Computing (Data Analytics) at Dublin City University, with project experience in predictive modelling (128K+ records), data visualisation, PySpark ETL pipelines, and deep learning. Seeking a Data Analyst role in Ireland.
 
 ## 🔍 Featured Projects
 
@@ -14,16 +14,17 @@ I'm a data-driven professional transitioning from enterprise software engineerin
 
 ## 🛠️ Technical Skills
 
-**Data & Analytics:** Python, SQL (Oracle, MySQL), Pandas, NumPy, scikit-learn, XGBoost, PySpark, Matplotlib, Seaborn, Tableau, Excel
+**Languages:** Python, SQL (Oracle, MySQL, SQL Server), Java, R
 
-**Machine Learning:** Classification, Regression, Clustering, SMOTE, Association Rule Mining, Deep Learning (PyTorch)
+**Data & Analytics:** Pandas, NumPy, scikit-learn, XGBoost, PySpark, Matplotlib, Seaborn, Tableau, Power BI, Excel
 
-**Programming:** Java, SQL, R, Go
+**Machine Learning:** Classification, Regression, Clustering, SMOTE, Association Rule Mining, Deep Learning
 
-**Tools:** Git, Jupyter Notebook, Google Colab, Linux
+**Tools:** Git, Jupyter Notebook, Google Colab, PyTorch, Linux
 
 ## 📫 Let's Connect
 
 - 📧 miles.li325@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubin-li-64a8b8412/)
 - 📍 Dublin, Ireland
+
