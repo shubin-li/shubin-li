@@ -10,7 +10,7 @@ Data-driven professional with 7 years of experience building enterprise systems 
 |---------|-------------|------------|
 | [UK Road Accident Severity Prediction](https://github.com/shubin-li/uk-road-accident-severity-prediction) | Multi-phase data mining pipeline on 128K+ records — 7 model configurations, 77.5% accuracy, Apriori ARM with 2.1× lift | Python, scikit-learn, XGBoost, SMOTE, mlxtend |
 | [Cloud-Based Music Trend Analysis](https://github.com/shubin-li/cloud-music-trend-analyzer) | End-to-end PySpark ETL pipeline processing 1.16M Spotify tracks + 25K Grammy records with cross-dataset entity resolution | PySpark, Pandas, Matplotlib, Parquet |
-| [Etsy AI-Generated Image Detection](https://github.com/shubin-li/etsy-ai-image-detection) | Industry-partnered NDA project — fine-tuned EfficientNetV2-S achieving F1 = 0.9076 for marketplace integrity | PyTorch, EfficientNetV2, torchvision |
+| [Industry AI-Generated Image Detection](https://github.com/shubin-li/industry-ai-image-detection) | Industry-partnered NDA project — fine-tuned EfficientNetV2-S achieving F1 = 0.9076 for marketplace integrity | PyTorch, EfficientNetV2, torchvision |
 
 ## 🛠️ Technical Skills
 
