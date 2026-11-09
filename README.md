@@ -1,8 +1,8 @@
 # Hi, I'm Shubin Li 👋
 
-**MSc Data Analytics @ Dublin City University | Data Analyst | 7 Years in Enterprise Insurance Systems**
+**Software Engineer | Data & Machine Learning | MSc Computing, First Class (DCU) | First-Author Paper, AICS 2026 (PMLR) | 7 Years Enterprise Java**
 
-Data-driven professional with 7 years of experience building enterprise systems for a Fortune 500 insurance company, progressing from core systems development (Java/Oracle) to production incident analysis and data-driven troubleshooting using complex SQL queries across large-scale Oracle databases serving 70,000+ users. Currently completing MSc in Computing (Data Analytics) at Dublin City University, where my practicum built a reusable fairness audit pipeline validated across six datasets. Other project work covers predictive modelling (128K+ records), PySpark ETL, data visualisation, and deep learning. Seeking a Data Analyst role in Ireland.
+Software engineer with 7 years of Java and Oracle development on a core policy administration system for New China Life Insurance, a Fortune Global 500 insurer, used by 70,000+ staff across 1,700+ branches. A later production support period covered 10+ daily incidents, multi-table SQL analysis and data correction. MSc in Computing (Data Analytics) at Dublin City University with First Class Honours. My practicum became a first-author paper, presented orally at AICS 2026 and set to appear in the Proceedings of Machine Learning Research (PMLR). Open to Software Engineer, data and machine learning roles in Ireland. Stamp 1G, full right to work.
 
 ## 🔍 Featured Projects
 
