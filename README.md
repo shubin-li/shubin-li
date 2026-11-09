@@ -8,11 +8,10 @@ Software engineer with 7 years of Java and Oracle development on a core policy a
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-
 | [ML Fairness Audit Pipeline](https://github.com/shubin-li/ml-fairness-audit-pipeline) | MSc practicum and first-author paper (AICS 2026, PMLR). Model-agnostic pipeline for fairness detection, mitigation and reassessment across healthcare, education and finance datasets, with two post-hoc diagnostics and a shared visualisation layer | Python, Fairlearn, AIF360, scikit-learn, XGBoost |
 | [UK Road Accident Severity Prediction](https://github.com/shubin-li/uk-road-accident-severity-prediction) | Multi-phase data mining pipeline on 128K+ records. 7 model configurations, 77.5% accuracy, Apriori ARM with 2.1× lift | Python, scikit-learn, XGBoost, SMOTE, mlxtend |
 | [Cloud-Based Music Trend Analysis](https://github.com/shubin-li/cloud-music-trend-analyzer) | End-to-end PySpark ETL pipeline processing 1.16M Spotify tracks + 25K Grammy records with cross-dataset entity resolution | PySpark, Pandas, Matplotlib, Parquet |
-| [Industry AI-Generated Image Detection](https://github.com/shubin-li/industry-ai-image-detection) | Industry-partnered NDA project. Fine-tuned EfficientNetV2-S achieving F1 = 0.9076 for marketplace integrity | PyTorch, EfficientNetV2, torchvision |
+| [Industry AI-Generated Image Detection](https://github.com/shubin-li/industry-ai-image-detection) | Challenge set by a major industry partner (NDA). Fine-tuned EfficientNetV2-S for AI-generated image detection, F1 = 0.9076 | PyTorch, EfficientNetV2, torchvision |
 
 ## 🛠️ Technical Skills
 
